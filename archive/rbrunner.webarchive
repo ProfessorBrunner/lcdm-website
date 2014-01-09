@@ -1,0 +1,393 @@
+bplist00—_WebMainResource’	
+_WebResourceFrameName^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingNameP_"http://www.sdss.jhu.edu/~rbrunner/Oà<html><head><style type="text/css"></style></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;!--DOCTYPE HTML PUBLIC --&gt;
+
+&lt;HTML&gt;
+
+&lt;HEAD&gt;
+
+&lt;!--
+Author:		Robert J. Brunner	
+Created:	July 17, 1995
+		
+Notes:		Comments are appreciated.
+--&gt;
+
+&lt;TITLE&gt;
+Robert J. Brunner, Homepage
+&lt;/TITLE&gt;
+&lt;!-- Changed by: Robert J. Brunner, 31-May-1996 --&gt;
+
+&lt;BASE HREF = "http://tarkus.pha.jhu.edu/"&gt;
+
+&lt;/HEAD&gt;
+
+&lt;BODY 
+BGCOLOR = "#EEEEEE"
+TEXT = "#111111" 
+LINK = "#336699" 
+VLINK = "#FF9933" 
+ALINK = "#FFCC66"&gt;
+
+&lt;H1&gt; Robert J. Brunner &lt;/H1&gt;
+
+&lt;H2&gt; Graduate Research Assistant &lt;/H2&gt;
+
+&lt;HR SIZE = 2&gt;
+
+&lt;H3&gt;Research Interests: &lt;/H3&gt;
+
+&lt;IMG SRC = "images/balls/blueBall.gif" ALT = "*"&gt;
+&lt;A HREF = "deep/"&gt;
+Observational Cosmology
+&lt;/A&gt;
+&lt;BR&gt;
+
+&lt;IMG SRC = "images/balls/blueBall.gif" ALT = "*"&gt;
+&lt;A HREF = ""&gt;
+Evolution of Galaxies
+&lt;/A&gt;
+&lt;BR&gt;
+
+&lt;IMG SRC = "images/balls/redBall.gif" ALT = "*"&gt; 
+&lt;A HREF = "scienceArchive/"&gt;
+Spatial Databases
+&lt;/A&gt;
+&lt;BR&gt;
+
+&lt;IMG SRC = "images/balls/redBall.gif" ALT = "*"&gt; 
+Multithreaded Programming
+&lt;BR&gt;
+
+&lt;IMG SRC = "images/balls/redBall.gif" ALT = "*"&gt; 
+&lt;A HREF = "~rbrunner/private/C++.html"&gt;
+C++ Programming
+&lt;/A&gt;
+(Private: Local Access Only)
+&lt;BR&gt;
+
+&lt;IMG SRC = "images/balls/redBall.gif" ALT = "*"&gt; 
+&lt;A HREF = "~rbrunner/private/Schedule.html"&gt;
+Personal SX Schedule Notes
+&lt;/A&gt;
+(Private: Local Access Only)
+&lt;BR&gt;
+
+&lt;H3&gt;Thesis:
+&lt;A HREF = "~rbrunner/personal/thesis.html"&gt;
+&lt;I&gt;Quantifying the Spectral and Density Evolution of Galaxies&lt;/I&gt;
+&lt;/A&gt;
+&lt;/H3&gt;
+
+&lt;IMG SRC = "images/bars/rnbBar.gif" WIDTH = "100%"&gt;
+
+&lt;P&gt;
+
+&lt;CENTER&gt;
+&lt;TABLE BORDER = 8 CELLPADDING = 0&gt;
+
+&lt;TR&gt;
+	&lt;TD COLSPAN = 3&gt;
+	&lt;TABLE BORDER = 4 CELLPADDING = 0&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;A HREF = "http://tarkus.pha.jhu.edu/"&gt;
+		&lt;IMG SRC = "images/icons/sdssLogo.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	
+		&lt;TD&gt;
+		&lt;A HREF = "http://xxx.lanl.gov/archive/astro-ph"&gt;
+		&lt;IMG SRC = "images/icons/skullnb.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://adswww.harvard.edu/abs_doc/abstract_service.html"&gt;
+		&lt;IMG SRC = "images/icons/note02.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://www.stsci.edu/"&gt;
+		&lt;IMG SRC = "images/icons/stsci.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://marvel.stsci.edu/net-resources.html"&gt;
+		&lt;IMG SRC = "images/icons/telescope.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "FGjournal/FGjournal.html"&gt;
+		&lt;IMG SRC = "images/icons/galaxy.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://iraf.noao.edu/"&gt;
+		&lt;IMG SRC = "images/icons/iraf.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://www2.nando.net/SportServer/football/nfl/chi.html"&gt;
+		&lt;IMG SRC = "images/icons/bears.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://www.nando.net/SportServer/basketball/nba/chi.html"&gt;
+		&lt;IMG SRC = "images/icons/bulls.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "http://www2.nando.net/SportServer/baseball/mlb/bal.html"&gt;
+		&lt;IMG SRC = "images/icons/orioles.gif" 
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD ALIGN = CENTER&gt;
+		SDSS
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		LANL
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		ADS
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		STSCI
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		ASTRO
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		FGJC
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		IRAF
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		BEARS
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		BULLS
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		O'S
+		&lt;/TD&gt;
+
+	&lt;/TR&gt;
+	&lt;/TABLE&gt;
+	&lt;/TD&gt;
+&lt;/TR&gt;
+&lt;TR&gt;
+	&lt;TD ALIGN = CENTER VALIGN = TOP&gt;
+	&lt;TABLE BORDER = 4 CELLPADDING = 0&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/icons/fire.gif" 
+		WIDTH = 24 
+		HEIGTH = 24&gt;
+
+		&lt;A HREF = ~rbrunner/bookmarks/scienceHotList.html&gt;
+		Science Hotlist
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;	
+
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/icons/fire.gif" 
+		WIDTH = 24 
+		HEIGTH = 24&gt;
+		&lt;A HREF = ~rbrunner/bookmarks/computerHotList.html&gt;
+		Computer Hotlist
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;	
+	
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/icons/fire.gif" 
+		WIDTH = 24 
+		HEIGTH = 24&gt;
+		&lt;A HREF = ~rbrunner/bookmarks/personalHotList.html&gt;
+		Personal HotList
+		&lt;/A&gt;
+		&lt;BR&gt;	
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;/TABLE&gt;
+	&lt;/TD&gt;
+
+	&lt;TD ALIGN = CENTER VALIGN = TOP&gt;
+	&lt;TABLE BORDER = 4 CELLPADDING = 0&gt;
+	&lt;CAPTION ALIGN = BOTTOM&gt;
+	Personal Information
+	&lt;/CAPTION&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;A HREF = ~rbrunner/personal/cv.html&gt;
+		&lt;IMG SRC = "images/icons/cv.gif"
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "ftp://skysrv.pha.jhu.edu/rbrunner/"&gt;
+		&lt;IMG SRC = "images/icons/ftp.gif"
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "~rbrunner/personal/code.html"&gt;
+		&lt;IMG SRC = "images/icons/cdrom.gif"
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = "~rbrunner/personal/observe.html"&gt;
+		&lt;IMG SRC = "images/icons/observe.gif"
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+
+		&lt;TD&gt;
+		&lt;A HREF = ~rbrunner/papers/preprints.html&gt;
+		&lt;IMG SRC = "images/icons/preprint.gif"
+		BORDER = 0 
+		WIDTH = 48 
+		HEIGTH = 48&gt;
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD ALIGN = CENTER&gt;
+		CV
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		FTP
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		Code
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		Data
+		&lt;/TD&gt;
+
+		&lt;TD ALIGN = CENTER&gt;
+		Papers
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;/TABLE&gt;
+	&lt;/TD&gt;
+
+	&lt;TD ALIGN = CENTER VALIGN = TOP&gt;
+	&lt;TABLE BORDER = 4 CELLPADDING = 0&gt;
+	&lt;CAPTION ALIGN = CENTER&gt;Private Information&lt;/CAPTION&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/balls/greenBall.gif"&gt;
+		&lt;A HREF = "~rbrunner/private/phoneList.html"&gt;
+		Phonelist
+		&lt;/A&gt;
+		&lt;/TD&gt;		
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/balls/yellowBall.gif"&gt;
+		&lt;A HREF = "rjb-bin/toDoGen.cgi"&gt;
+		To Do List
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;TR&gt;
+		&lt;TD&gt;
+		&lt;IMG SRC = "images/balls/orangeBall.gif"&gt;
+		&lt;A HREF = "~rbrunner/testPage.html"&gt;
+		WWW Test Page.
+		&lt;/A&gt;
+		&lt;/TD&gt;
+	&lt;/TR&gt;
+	&lt;/TABLE&gt;
+	&lt;/TD&gt;
+&lt;/TR&gt;
+
+&lt;/TABLE&gt;
+&lt;/CENTER&gt;
+
+&lt;P&gt;
+
+&lt;IMG SRC = "images/bars/look.gif" WIDTH = "100%"&gt;
+
+&lt;/BODY&gt;
+
+&lt;ADDRESS&gt;
+&lt;H6&gt;
+&lt;A href="~rbrunner/rbrunner.html"&gt;Robert J. Brunner&lt;/A&gt;:
+&lt;A HREF = "http://www.pha.jhu.edu/"&gt; Department of Physics &amp; Astronomy &lt;/A&gt;,
+&lt;A HREF = "http://www.jhu.edu/"&gt; The Johns Hopkins University &lt;/A&gt; &lt;BR&gt;
+Last Modified: May 23, 1996.
+&lt;/H6&gt;
+&lt;/ADDRESS&gt;
+
+&lt;/HTML&gt;
+</pre></body></html>_text/x-server-parsed-htmlUUTF-8    ( ? N ` v î ï ∫Fb                           h
