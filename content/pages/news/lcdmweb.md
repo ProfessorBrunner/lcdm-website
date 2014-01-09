@@ -2,7 +2,6 @@ Title: New Website!
 Slug: lcdmweb-news
 Date: 2014-01-02
 Modified: 
-Template: lcdmpage
 Authors: Robert J. Brunner
 Tags: LCDM, website
 Save_as: news/lcdmweb-news.html

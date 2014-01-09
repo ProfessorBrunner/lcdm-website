@@ -2,7 +2,6 @@ Title: Random Atlas Paper Accepted
 Slug: somz-news
 Date: 2013-12-17
 Modified: 
-Template: lcdmpage
 Authors: Robert J. Brunner
 Tags: Data Mining, Machine Learning, Photometric Redshift, Random Atlas, Self Organizing Maps, Paper, MNRAS
 Comments: yes

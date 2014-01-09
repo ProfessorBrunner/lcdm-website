@@ -2,7 +2,6 @@ Title: About
 Slug: about
 Date: 2002-12-01
 Modified-Date: 2013-12-26
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: about.html
 Hang_indent: 1

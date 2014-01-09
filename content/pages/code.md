@@ -2,7 +2,7 @@ Title: Code
 Slug: code
 Date: 2002-12-01
 Modified-Date: 2013-12-31
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 Save_as: code.html
 Hang_indent: 1

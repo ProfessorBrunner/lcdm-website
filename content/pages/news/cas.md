@@ -2,7 +2,6 @@ Title: CAS Associate Appointment
 Slug: cas-news
 Date: 2013-12-01
 Modified: 
-Template: lcdmpage
 Authors: Robert J. Brunner
 Tags: Center for Advanced Study
 Comments: yes

@@ -2,7 +2,6 @@ Title: SDSS DR7 Galaxy Angular Power Spectra
 Slug: sdssDR7-aps-data
 Date: 2011-12-01
 Modified: 2013-09-06
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: data/sdssDR7-aps.html
 TAGS: APS, angular power spectrum, cosmology, hpc, openmp, quadratic estimator, data

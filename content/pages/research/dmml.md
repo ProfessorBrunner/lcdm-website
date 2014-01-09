@@ -2,7 +2,7 @@ Title: Data Mining and Machine Learning
 Slug: dmml
 Date: 2013-12-26
 Modified: 
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 Save_as: research/dmml.html
 Tags: Data Mining, Machine Learning

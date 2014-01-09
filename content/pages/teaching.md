@@ -2,7 +2,7 @@ Title: Class Information
 Slug: teaching
 Date: 2013-12-01
 Modified-Date: 
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 Save_as: teaching.html
 Tags: Teaching

@@ -2,7 +2,7 @@ Title: Source Classification
 Slug: sc
 Date: 2013-12-26
 Modified: 
-Template: lcdmpages
+Template: project
 Authors: Robert J. Brunner
 Save_as: research/dmml/sc.html
 Tags: Data Mining, Machine Learning, Classification

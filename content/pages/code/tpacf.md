@@ -2,7 +2,6 @@ Title: Fast Two-point Correlation Code
 Slug: tpacf-code
 Date: 2007-09-11
 Modified: 2013-12-16
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: code/tpacf.html
 TAGS: TPACF, correlation function, cosmology, hpc, mpi, openmp

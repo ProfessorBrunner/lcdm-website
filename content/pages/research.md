@@ -2,7 +2,7 @@ Title: Research projects
 Slug: research
 Date: 2013-12-31
 Modified-Date: 
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 save_as: research.html
 Tags: Research

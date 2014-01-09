@@ -2,13 +2,12 @@ Title: Professor Robert J. Brunner
 Slug: brunner
 Date: 2002-12-01
 Modified-Date: 2013-12-26
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: people/brunner.html
 Hang_indent: 1
 Summary: Curriculum Vitae for Professor Robert J. Brunner.
 
-<img src="/static/images/astro-rjb-profile.jpg" 
+<img src="{filename}/static/images/astro-rjb-profile.jpg" 
 alt="Professor Robert J. Brunner, Department Photo" 
 width="150px" height="150px" align="left" 
 display="block" style="margin-right: 60px;" />

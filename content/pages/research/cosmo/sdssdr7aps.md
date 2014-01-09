@@ -2,7 +2,6 @@ Title: SDSS DR7 Galaxy Angular Power Spectrum
 Slug: sdssdr7-aps
 Date: 2013-12-29
 Modified: 2013-12-26
-Template: lcdmpage
 Authors: Brett Hayes, Robert J. Brunner
 Save_as: research/cosmo/sdssDR7-aps.html
 Tags: Cosmology, Power Spectrum, galaxy, statistics

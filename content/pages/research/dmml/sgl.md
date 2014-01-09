@@ -2,7 +2,7 @@ Title: Strong Gravitational Lensing
 Slug: sgl
 Date: 2013-12-26
 Modified: 
-Template: lcdmpages
+Template: project
 Authors: Robert J. Brunner
 Save_as: research/dmml/sgl.html
 Tags: Data Mining, Machine Learning, Classification, Strong Gravitational Lensing

@@ -2,7 +2,6 @@ Title: SDSS DR7 Galaxy Correlation Function Data
 Slug: sdssDR7-tpacf-data
 Date: 2013-03-01
 Modified: 2013-12-16
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: data/sdssDR7-tpacf.html
 TAGS: TPACF, correlation function, cosmology, hpc, mpi, openmp

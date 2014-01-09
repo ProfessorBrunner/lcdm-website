@@ -2,7 +2,6 @@ Title: SDSS DR7 Galaxy Two-Point Angular Correlation Function
 Slug: sdssdr7-tpacf
 Date: 2013-12-29
 Modified: 2013-12-16
-Template: lcdmpage
 Authors: Yiran Wang, Robert J. Brunner
 Save_as: research/cosmo/sdssdr7-tpacf.html
 Tags: Cosmology, correlation function, galaxy, statistics

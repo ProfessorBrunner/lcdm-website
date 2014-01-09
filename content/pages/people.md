@@ -2,7 +2,6 @@ Title: LCDM Members
 Slug: people
 Date: 2002-12-01
 Modified-Date: 2013-12-26
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: people.html
 hang_indent: 1
@@ -31,7 +30,7 @@ Edward J. Kim, Graduate Student, Physics (2013-present)
 [Matias Carrasco Kind](https://sites.google.com/site/mgckind/), Graduate
 Student, Astronomy (2010-present)
 
-Yiran Wang, Graduate Student, Astronomy (2007-present)
+[Yiran Wang](https://sites.google.com/site/yiranwangsresearchpage/), Graduate Student, Astronomy (2007-present)
 
 ### Undergraduate Students
 

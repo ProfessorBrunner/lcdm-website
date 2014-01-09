@@ -2,7 +2,6 @@ Title: Narrow Absorption Line Variability
 Slug: nalvar
 Date: 2013-02-03
 Modified: 
-Template: lcdmpage
 Authors: Troy Hacker, Robert J. Brunner
 Save_as: research/var/nalvar.html
 TAGS: Quasar, Quasar Absorption Systems, Variability, Galaxy

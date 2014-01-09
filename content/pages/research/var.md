@@ -2,7 +2,7 @@ Title: Astrophysical Variability
 Slug: var
 Date: 2013-12-26
 Modified: 
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 Save_as: research/var.html
 Tags: Variability

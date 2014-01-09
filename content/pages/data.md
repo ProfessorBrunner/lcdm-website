@@ -2,7 +2,7 @@ Title: Data
 Slug: data
 Date: 2002-12-01
 Modified-Date: 2013-12-31
-Template: lcdmpages
+Template: pages
 Authors: Robert J. Brunner
 Save_as: data.html
 Tags: Data Products

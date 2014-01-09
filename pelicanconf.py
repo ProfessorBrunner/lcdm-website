@@ -142,7 +142,8 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 # Note you can't use '-' in variable names, doing so caused a problem in
 # the LCDMPOSTS_SAVE_AS variable with Pelican.
 
-DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 'projects', 'presentations'))
+DIRECT_TEMPLATES = (('index', 'articles', 'news'))
+#DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 'projects', 'presentations'))
 PAGINATED_DIRECT_TEMPLATES = (('articles', 'news'))
 ARTICLES_SAVE_AS = ('blog/index.html')
 NEWS_SAVE_AS = ('news/index.html')

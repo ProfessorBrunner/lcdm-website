@@ -2,7 +2,6 @@ Title: Fast Angular Power Spectrum Estimation Code
 Slug: aps-code
 Date: 2011-12-01
 Modified: 2013-09-06
-Template: lcdmpage
 Authors: Robert J. Brunner
 Save_as: code/aps.html
 TAGS: APS, angular power spectrum, cosmology, hpc, openmp, quadratic estimator
