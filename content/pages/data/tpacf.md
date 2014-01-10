@@ -39,32 +39,32 @@ degrees, others are the values of the corresponding covariances.
 
 <tr>
 <th><center>17 < r < 21 (Full)</center></th>
-<td><center><a href="/static/tpacf/DR7v2.final.17to21.esti.jerror">2PACF</a></center></td>
-<td><center><a href="/static/tpacf/DR7v2.final.17to21.cov_true">Cov</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.17to21.esti.jerror">2PACF</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.17to21.cov_true">Cov</a></center></td>
 </tr>
 
 <tr>
 <th><center>17 < r < 18</center></th>
-<td><center><a href="/static/tpacf/DR7v2.final.17to18.esti.jerror">2PACF</a></center></td>
-<td><center><a href="/static/tpacf/DR7v2.final.17to18.cov_true">Cov</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.17to18.esti.jerror">2PACF</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.17to18.cov_true">Cov</a></center></td>
 </tr>
 
 <tr>
 <th><center>18 < r < 19</center></th>
-<td><center><a href="/static/tpacf/DR7v2.final.18to19.esti.jerror">2PACF</a></center></td>
-<td><center><a href="/static/tpacf/DR7v2.final.18to19.cov_true">Cov</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.18to19.esti.jerror">2PACF</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.18to19.cov_true">Cov</a></center></td>
 </tr>
 
 <tr>
 <th><center>19 < r < 20</center></th>
-<td><center><a href="/static/tpacf/DR7v2.final.19to20.esti.jerror">2PACF</a></center></td>
-<td><center><a href="/static/tpacf/DR7v2.final.19to20.cov_true">Cov</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.19to20.esti.jerror">2PACF</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.19to20.cov_true">Cov</a></center></td>
 </tr>
 
 <tr>
 <th><center>20 < r < 21</center></th>
-<td><center><a href="/static/tpacf/DR7v2.final.20to21.esti.jerror">2PACF</a></center></td>
-<td><center><a href="/static/tpacf/DR7v2.final.20to21.cov_true">Cov</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.20to21.esti.jerror">2PACF</a></center></td>
+<td><center><a href="/static/data/tpacf/DR7v2.final.20to21.cov_true">Cov</a></center></td>
 </tr>
 
 </table>

@@ -23,7 +23,7 @@ The code base is currently being migrated to [github](https://github.com/Profess
 ## Original Archive
 
 The originally published [quadratic
-estimator](/static/apsqe/KL_spectrum.tar.gz) implementation is permanently
+estimator](/static/code/apsqe/KL_spectrum.tar.gz) implementation is permanently
 archived at the LCDM site.
 
 Once compiled, the program is run with two inputs: a HEALPix pixelated
@@ -37,14 +37,14 @@ unmasked galaxies in the sample, followed by an underscore, followed by
 the rest of the name (i.e., "256_18923408_..."). The value of each pixel
 should be the galaxy overdensity of that pixel, and masked pixels should
 have a value of less than -1 (they will be ignored). We provide a 
-[sample FITS file](/static/apsqe/64_18860538_mag18-21_type0.0-1.0_stripe_9-37.fits).
+[sample FITS file](/static/code/apsqe/64_18860538_mag18-21_type0.0-1.0_stripe_9-37.fits).
 
 For the bandpower input file, the format matches the output of the code.
 The seven columns are: bandpower number, bandpower midpoint, bandpower
 start, bandpower end, initial value of C_l, error of C_l, and the
 initial value of C_l (repeated). For the read-in of this file, all
 columns other than the third, fourth, and fifth columns are ignored. We provide a 
-[sample bandpower input](/static/apsqe/C_18-21_0.0-1.0_9-37_64_200.dat) file.
+[sample bandpower input](/static/code/apsqe/C_18-21_0.0-1.0_9-37_64_200.dat) file.
 
 ## Contact:
 

@@ -28,9 +28,9 @@ Landy-Szalay), you must combine binned pair counts appropriately.
 ## Original Archive
 
 The originally published [correlation function
-code](/static/tpacf/CorrCode.tar.gz) is permanently archived at the LCDM site.
+code](/static/code/tpacf/CorrCode.tar.gz) is permanently archived at the LCDM site.
 
-For completeness, you can directly view the original [README](/static/tpacf/README-TPACF) file.
+For completeness, you can directly view the original [README](/static/code/tpacf/README-TPACF) file.
 
 ## Contact:
 

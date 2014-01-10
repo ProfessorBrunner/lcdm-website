@@ -68,58 +68,58 @@ number), while the W01 element is the first line and second number.
 <tr>
 <td><center>9-37</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>9-37</center></td>
 <td><center>18-19</center></td>
-<td><center><a href="/static/apsqe/C_18-19_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-19_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-19_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-19_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-19_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-19_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>9-37</center></td>
 <td><center>19-20</center></td>
-<td><center><a href="/static/apsqe/C_19-20_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_19-20_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_19-20_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_19-20_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_19-20_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_19-20_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>9-37</center></td>
 <td><center>20-21</center></td>
-<td><center><a href="/static/apsqe/C_20-21_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_20-21_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_20-21_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_20-21_0.0-1.0_9-37_64_200.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_20-21_0.0-1.0_9-37_64_200.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_20-21_0.0-1.0_9-37_64_200.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>18-19</center></td>
-<td><center><a href="/static/apsqe/C_18-19_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-19_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-19_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-19_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-19_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-19_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>19-20</center></td>
-<td><center><a href="/static/apsqe/C_19-20_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_19-20_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_19-20_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_19-20_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_19-20_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_19-20_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>20-21</center></td>
-<td><center><a href="/static/apsqe/C_20-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_20-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_20-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_20-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_20-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_20-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td></td>
@@ -131,23 +131,23 @@ number), while the W01 element is the first line and second number.
 <tr>
 <td><center>10</center></td>
 <td><center>18.2-19.2</center></td>
-<td><center><a href="/static/apsqe/C_18.2-19.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18.2-19.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18.2-19.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18.2-19.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18.2-19.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18.2-19.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>19.2-20.2</center></td>
-<td><center><a href="/static/apsqe/C_19.2-20.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_19.2-20.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_19.2-20.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_19.2-20.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_19.2-20.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_19.2-20.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>20.2-21.2</center></td>
-<td><center><a href="/static/apsqe/C_20.2-21.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_20.2-21.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_20.2-21.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_20.2-21.2_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_20.2-21.2_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_20.2-21.2_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td></td>
@@ -159,205 +159,205 @@ number), while the W01 element is the first line and second number.
 <tr>
 <td><center>9</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_9-9_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_9-9_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_9-9_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_9-9_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_9-9_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_9-9_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>10</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_10-10_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_10-10_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_10-10_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>11</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_11-11_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_11-11_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_11-11_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_11-11_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_11-11_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_11-11_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>12</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_12-12_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_12-12_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_12-12_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_12-12_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_12-12_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_12-12_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>13</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_13-13_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_13-13_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_13-13_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_13-13_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_13-13_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_13-13_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>14</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_14-14_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_14-14_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_14-14_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_14-14_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_14-14_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_14-14_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>15</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_15-15_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_15-15_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_15-15_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_15-15_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_15-15_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_15-15_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>16</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_16-16_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_16-16_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_16-16_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_16-16_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_16-16_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_16-16_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>17</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_17-17_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_17-17_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_17-17_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_17-17_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_17-17_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_17-17_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>18</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_18-18_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_18-18_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_18-18_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_18-18_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_18-18_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_18-18_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>19</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_19-19_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_19-19_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_19-19_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_19-19_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_19-19_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_19-19_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>20</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_20-20_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_20-20_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_20-20_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_20-20_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_20-20_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_20-20_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>21</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_21-21_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_21-21_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_21-21_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_21-21_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_21-21_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_21-21_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>22</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_22-22_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_22-22_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_22-22_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_22-22_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_22-22_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_22-22_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>23</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_23-23_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_23-23_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_23-23_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_23-23_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_23-23_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_23-23_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>24</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_24-24_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_24-24_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_24-24_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_24-24_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_24-24_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_24-24_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>25</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_25-25_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_25-25_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_25-25_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_25-25_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_25-25_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_25-25_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>26</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_26-26_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_26-26_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_26-26_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_26-26_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_26-26_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_26-26_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>27</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_27-27_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_27-27_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_27-27_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_27-27_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_27-27_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_27-27_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>28</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_28-28_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_28-28_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_28-28_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_28-28_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_28-28_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_28-28_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>29</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_29-29_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_29-29_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_29-29_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_29-29_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_29-29_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_29-29_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>30</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_30-30_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_30-30_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_30-30_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_30-30_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_30-30_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_30-30_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>31</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_31-31_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_31-31_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_31-31_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_31-31_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_31-31_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_31-31_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>32</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_32-32_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_32-32_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_32-32_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_32-32_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_32-32_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_32-32_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>33</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_33-33_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_33-33_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_33-33_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_33-33_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_33-33_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_33-33_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>34</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_34-34_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_34-34_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_34-34_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_34-34_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_34-34_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_34-34_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>35</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_35-35_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_35-35_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_35-35_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_35-35_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_35-35_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_35-35_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>36</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_36-36_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_36-36_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_36-36_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_36-36_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_36-36_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_36-36_256_1000.dat">Window</a></center></td>
 </tr>
 <tr>
 <td><center>37</center></td>
 <td><center>18-21</center></td>
-<td><center><a href="/static/apsqe/C_18-21_0.0-1.0_37-37_256_1000.dat">APS</a></center></td>
-<td><center><a href="/static/apsqe/Fisher_18-21_0.0-1.0_37-37_256_1000.dat">Fisher</a></center></td>
-<td><center><a href="/static/apsqe/Window_18-21_0.0-1.0_37-37_256_1000.dat">Window</a></center></td>
+<td><center><a href="/static/data/apsqe/C_18-21_0.0-1.0_37-37_256_1000.dat">APS</a></center></td>
+<td><center><a href="/static/data/apsqe/Fisher_18-21_0.0-1.0_37-37_256_1000.dat">Fisher</a></center></td>
+<td><center><a href="/static/data/apsqe/Window_18-21_0.0-1.0_37-37_256_1000.dat">Window</a></center></td>
 </tr>
 </table>
 </tbody>

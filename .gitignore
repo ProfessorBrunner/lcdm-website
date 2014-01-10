@@ -1,4 +1,6 @@
 .DS_Store
 output
 lcdm-pelican
-content/static
+content/static/presentations
+content/static/papers
+content/static/code

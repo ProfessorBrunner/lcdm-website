@@ -47,5 +47,5 @@ are likely incorrectly outliers.
 ### Trees for Photo-Z
 
 This work has been
-[published]({filename}/pages/research/dmml/photoz/TPZpaper.md) by the
+[published](/papers/TPZ.html) by the
 Monthly Notices of the Royal Astronomical Society

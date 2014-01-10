@@ -105,7 +105,17 @@ SOCIAL = (('GitHub', 'https://github.com/ProfessorBrunner'),
           ('LinkedIn', 'http://www.linkedin.com/pub/robert-brunner/33/75b/ba6'),
           ('Twitter', 'https://twitter.com/ProfBrunner'))
 
-ACTIVE = 'Blog'
+# I was trying to use this to highlight a particular entry in links.
+# But it hasn't worked yet.
+#ACTIVE = 'Blog'
+
+# Add typographical Enhancements  (en, em dashes, proper quotes, etc.)
+
+# Note: CAPS filter in typogrify screws up some things, so I have to turn
+# off typogrify for now. But future version of Pelican should give
+# ability to filter out parts of typogrify.
+
+#TYPOGRIFY = True
 
 # All static content is placed in static directory, including images
 
@@ -142,8 +152,8 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 # Note you can't use '-' in variable names, doing so caused a problem in
 # the LCDMPOSTS_SAVE_AS variable with Pelican.
 
-DIRECT_TEMPLATES = (('index', 'articles', 'news'))
-#DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 'projects', 'presentations'))
+# DIRECT_TEMPLATES = (('index', 'articles', 'news'))
+DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 'projects', 'presentations'))
 PAGINATED_DIRECT_TEMPLATES = (('articles', 'news'))
 ARTICLES_SAVE_AS = ('blog/index.html')
 NEWS_SAVE_AS = ('news/index.html')
@@ -193,8 +203,8 @@ THEME = 'lcdm-pelican'
 # image must have the {filename} prepended, even if I am simply using
 # the <img> tage. Otherwise page doesn't build properly.
 
-PLUGIN_PATH = '../pelican-plugins'
-PLUGINS = ['latex', 'summary', 'assets']#, 'better_figures_and_images']
+PLUGIN_PATH = 'pelican-plugins'
+PLUGINS = ['summary', 'assets']#, 'better_figures_and_images']
 
 # Allow Latex
-LATEX = ('articles', 'posts', 'pages')
+#LATEX = ('articles', 'posts', 'pages')
