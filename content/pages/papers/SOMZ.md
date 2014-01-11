@@ -9,9 +9,9 @@ Type: paper
 Parent: photoz
 Construction: True
 Latex: True
-sDate: 2012-11-15
-aDate: 2013-03-28
-pDate: 
+sDate: 2013-10-22
+aDate: 2013-12-18
+pDate: 	
 pURL: 
 Summary: We have developed a new random atlas estimation technique for photometric redshift PDF estimation.
 

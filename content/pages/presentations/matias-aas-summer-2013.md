@@ -12,4 +12,7 @@ Type: presentation
 Construction: True
 Summary: We have developed an end-to-end framework to enable precision cosmology, from producing probabilty density functions (PDFs) for photometric redshifts by combining different, powerful techniques to using these PDFs in galaxy clustering measurments to enable cosmological constraints.
 
+[!["Thumbnail"](/static/images/presentations/AAS_MCK_13.png "Small Poster")]({filename}/static/presentations/AAS_MCK_13.pdf)
+
+
 [Full Poster]({filename}/static/presentations/AAS_MCK_13.pdf)

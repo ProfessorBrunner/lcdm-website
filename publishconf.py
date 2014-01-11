@@ -18,7 +18,10 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+# We read the required credentials from a safe file:
+with open("/Users/rb/.lcdm-credentials") as f:
+    DISQUS_SITENAME = f.readline().rstrip('\n')
+    COMMENTS = True
+    
+    GOOGLE_ANALYTICS = f.readline().rstrip('\n')
+    ANALYTICS = True

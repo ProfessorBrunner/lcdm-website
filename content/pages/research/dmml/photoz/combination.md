@@ -12,4 +12,6 @@ Summary: We are developing new methods to combine photometric redshift PDF estim
 
 ## Combining Photo-Z PDFs
 
-Different photometric redshift estimation techniques have their own benefits and shortcomings. By combnining techniques, we can achieve increased performance and accuracy over any single one technique.
+Different photometric redshift estimation techniques have their own
+benefits and shortcomings. By combining techniques, we can achieve
+increased performance and accuracy over any single one technique.

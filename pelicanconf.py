@@ -2,6 +2,16 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+# This file is only used if you use `make publish` or
+# explicitly specify it as your config file.
+
+import os
+import sys
+sys.path.append(os.curdir)
+
+# My specific code is stored in lcdmwebsite.py
+from lcdmwebsite import *
+
 # Custom Pelican configuration file.
 # For LCDM: Robert J. Brunner
 #
@@ -17,52 +27,6 @@ from __future__ import unicode_literals
 # 4) News items are articles and placed in posts directory
 # 5) Blog posts are articles in posts directory. 
 
-# Add these to allow custom jinja2 & Python code
-
-from datetime import datetime
-
-# RJB 12/16/2013
-# This function checks to see if the inpute date is within three months
-# of today. No day comparisons are made.
-# This is for my custom lcdm Pelican theme.
-
-def recentNews(dt, months = 3):
-    td = datetime.today()
-    
-    # If years match, simply check the month difference
-    if ((dt.year == td.year) and 
-        ((int(dt.month) + (months - 1)) >= int(td.month))):
-        return True
-    
-    # If post was from last year, we increment current month by 12
-    elif ((dt.year == (td.year - 1)) and 
-        ((int(dt.month) + (months - 1)) >= int(td.month + 12))):
-        return True
-
-    return False
-
-# RJB 01/03/2014
-# Format Unicode string to date for HTML
-
-def lcdmDateFormat(str, format='%b %d, %Y'):
-    date = datetime.strptime(str, "%Y-%m-%d")
-    return date.strftime(format) 
-
-# This method dumps the values associated with a given variable. Used for debugging.
-# Use with contents or page, or pages. For example, 
-# {{ contents|show_all_attrs }}
-# {{ pages |show_all_attrs }}
-# {{ page |show_all_attrs }}
-
-def show_all_attrs(value):
-    res = []
-    for k in dir(value):
-        res.append('%r %r\n <br />' % (k, getattr(value, k)))
-    return '\n'.join(res)
-    
-# Add the new jinja extension filter
-JINJA_FILTERS = { 'recentNews': recentNews, 'lcdmDateFormat' : lcdmDateFormat, 'show_all_attrs': show_all_attrs }
-
 # Standard Pelican material
 
 AUTHOR = u'Robert J. Brunner'
@@ -77,7 +41,6 @@ TIMEZONE = 'America/Chicago'
 # By default use filesystem date
 FALLBACK_ON_FS_DATE = "True"
 DEFAULT_DATE = 'fs'
-
 DEFAULT_LANG = u'en'
 
 # These are linked in my sidebar.
@@ -114,7 +77,7 @@ SOCIAL = (('GitHub', 'https://github.com/ProfessorBrunner'),
 # Note: CAPS filter in typogrify screws up some things, so I have to turn
 # off typogrify for now. But future version of Pelican should give
 # ability to filter out parts of typogrify.
-
+# Note I tried using striptags and replace, but it seems they come before typogrify
 #TYPOGRIFY = True
 
 # All static content is placed in static directory, including images
@@ -152,8 +115,8 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 # Note you can't use '-' in variable names, doing so caused a problem in
 # the LCDMPOSTS_SAVE_AS variable with Pelican.
 
-# DIRECT_TEMPLATES = (('index', 'articles', 'news'))
-DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 'projects', 'presentations'))
+DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 
+    'projects', 'presentations', 'teaching', 'code', 'data'))
 PAGINATED_DIRECT_TEMPLATES = (('articles', 'news'))
 ARTICLES_SAVE_AS = ('blog/index.html')
 NEWS_SAVE_AS = ('news/index.html')
@@ -204,7 +167,4 @@ THEME = 'lcdm-pelican'
 # the <img> tage. Otherwise page doesn't build properly.
 
 PLUGIN_PATH = 'pelican-plugins'
-PLUGINS = ['summary', 'assets']#, 'better_figures_and_images']
-
-# Allow Latex
-#LATEX = ('articles', 'posts', 'pages')
+PLUGINS = ['summary', 'assets']
