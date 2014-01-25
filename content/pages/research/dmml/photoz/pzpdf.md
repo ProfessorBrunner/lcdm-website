@@ -14,4 +14,6 @@ Summary: Exploring optimal storage techniques for photometric redshift probabili
 
 A single photometric redshift probability density function (PDF) can be quite large, dpending on the redshift range covered by a photometric survey and the accuaracy of the sampled PDF. For a survey with resolution of $\deltaz = 0.02$ that covers $0 \leq z \leq 1.0$, we have fifty bins, which for 16 bit scaled integers requires 100 bytes. For larger redshift ranges, or higher numerical precision, the number of bytes becomes even larger.
 
-If a survey computes multiple PDFs for billions of sources, the storage of the PDFs can easily become several TBs, which is both a stroage and a computation issue. 
+If a survey computes multiple PDFs for billions of sources, the storage
+of the PDFs can easily become several TBs, which is both a storage and a
+computation issue. 

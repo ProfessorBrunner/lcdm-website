@@ -6,5 +6,6 @@ Template: pages
 Authors: Robert J. Brunner
 Save_as: research/cosmo.html
 Tags: Cosmology
-Type: research
+Type: area
+Parent: research
 Summary: This is a collection of the cosmology studies from the LCDM

@@ -6,7 +6,7 @@ Template: pages
 Authors: Robert J. Brunner
 Save_as: research/dmml.html
 Tags: Data Mining, Machine Learning
-Type: research
+Type: area
 Parent: research
 Construction: True
 Summary: Application of data mining and machine learning to Astronomy, including photometric redshift estimation and source classification.

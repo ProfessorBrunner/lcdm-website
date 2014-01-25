@@ -24,7 +24,7 @@ The code base will eventually be migrated to [github](https://github.com/Profess
 ## Original Archive
 
 The currently published [MLZ](/static/code/mlz/MLZ-1.0.tar.gz) implementation is permanently
-archived at the LCDM site.
+archived at the LCDM site, as is the [MLZ documentation](/static/code/mlz/MLZ-1.0/doc/html/index.html).
 
 
 ## Contact:

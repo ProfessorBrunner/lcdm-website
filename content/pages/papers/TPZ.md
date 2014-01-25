@@ -60,7 +60,7 @@ application of photometric redshift PDFs.
 The most recent implementation of the TPZ algorithm is now included in
 the Machine Learning for Photometric Redshift (MLZ) code. Both the [MLZ
 code](/static/code/MLZ/MLZ-1.0.tar.gz) and the [MLZ
-Manual](/static/code/MLZ/doc/html/index.html) are freely available.
+Manual](/static/code/mlz/MLZ-1.0/doc/html/index.html) are freely available.
 
 The original version of the TPZ code is only available upon request.
 

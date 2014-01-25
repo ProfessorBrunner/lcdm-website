@@ -7,7 +7,9 @@ Save_as: research/cosmo/sdssDR7-aps.html
 Tags: Cosmology, Power Spectrum, galaxy, statistics
 Type: project
 Parent: cosmo
+pStatus: Inactive
 Construction: True
+Comments: True
 Summary: We calculate the SDSS DR7 galaxy angular power spectrum.
 
 You can access the [data](/data/sdssDR7-aps-data.html) for this
