@@ -180,7 +180,7 @@ machine can easily add new content to the LCDM group website.
 (pelican)bigdog:~ rb$ crontab bin/crontab.txt 
 
 (pelican)bigdog:~ rb$ crontab -l
-0 0 */4 * * /Users/rb/bin/lcdmregen.sh
+0 0/4 * * * /Users/rb/bin/lcdmregen.sh
 ```
 
 Of course, the regeneration BASH script can be run at other times to
