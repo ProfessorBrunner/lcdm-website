@@ -96,7 +96,7 @@ current content file.
 ## Conclusion
 
 The full details of the LCDM Website hierarchy and a discussion of the
-diffecurrent LCDM Pelican theme and associated Jinja2 template files
+current LCDM Pelican theme and associated Jinja2 template files
 will be presented in future posts. However, all static content for the
 LCDM website is hosted on github, including the [LCDM Pelican
 theme](https://github.com/ProfessorBrunner/lcdm-pelican) and the [LCDM

@@ -146,8 +146,9 @@ TAGS_SAVE_AS = 'extra/tags/index.html'
 # Serve all source files. While I would like to do this, right now it
 # makes a directory and simply copies the md file into that directory
 # (teaching.txt, for example. i wanted the file to be viewable as is.
-#OUTPUT_SOURCES = True
-#OUTPUT_SOURCES_EXTENSION = '.txt'
+
+# OUTPUT_SOURCES = True
+# OUTPUT_SOURCES_EXTENSION = '' # '.txt'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
