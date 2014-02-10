@@ -19,7 +19,7 @@ slightly modified, but still focus on single-band peak finding, with
 forced photometry in additional bands. 
 
 The computer vision communities
-have been working on novel techniques for (hyperspectral
+have been working on novel techniques for [hyperspectral
 imaging](http://en.wikipedia.org/wiki/Hyperspectral_imaging). In this
 approach, all data is analyzed to extract the maximum possible
 information. In collaboration with the [Image Formation and Processing
