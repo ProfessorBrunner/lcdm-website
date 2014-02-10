@@ -12,11 +12,12 @@ Summary:  We develop and apply unsupervised machine learning techniques to the p
 
 ## Unsupervised photometric redshift estimation
 
-text here.
-
-## SOMZ: Maps for Photo-Z
-
 We have developed a new technique that uses self-organizing maps and a
 new random atlas  to estimate photometric redshift probability density
 functions (PDFs). 
 
+### SOMs for Photo-Z
+
+This work has been
+[accepted](/papers/SOMz.html) by the
+Monthly Notices of the Royal Astronomical Society
