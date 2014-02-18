@@ -74,10 +74,13 @@ Lectures are published after the relevant class.
 - [Cosmology](/static/classes/astr330sp14/Lecture4.pdf) (Jan 30, 2014)
 - [The Big Bang Theory](/static/classes/astr330sp14/Lecture5.pdf) (Feb 4, 2014)
 - [The End of the Universe](/static/classes/astr330sp14/Lecture6.pdf) (Feb 6, 2014)
+- [Structure Formation](/static/classes/astr330sp14/Lecture7.pdf) (Feb 11, 2014)
+- [A Star's Life](/static/classes/astr330sp14/Lecture8.pdf) (Feb 13, 2014)
+- [Solar Nebulae Theory](/static/classes/astr330sp14/Lecture9.pdf) (Feb 18, 2014)
+- [Exoplanets](/static/classes/astr330sp14/Lecture10.pdf) (Feb 20, 2014)
 
 <!--
 
-- [Why does the Sun Shine?](/static/classes/astr330sp14/Lecture6.pdf) (Feb 6, 2014)
 - [Making CNO](/static/classes/astr330sp14/Lecture7.pdf) (Feb 11, 2014)
 - [Star Formation](/static/classes/astr330sp14/Lecture8.pdf) (Feb 13, 2014)
 - [Exoplanets](/static/classes/astr330sp14/Lecture9.pdf) (Feb 18, 2014)
