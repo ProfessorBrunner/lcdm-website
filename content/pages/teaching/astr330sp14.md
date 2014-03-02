@@ -78,6 +78,8 @@ Lectures are published after the relevant class.
 - [A Star's Life](/static/classes/astr330sp14/Lecture8.pdf) (Feb 13, 2014)
 - [Solar Nebulae Theory](/static/classes/astr330sp14/Lecture9.pdf) (Feb 18, 2014)
 - [Exoplanets](/static/classes/astr330sp14/Lecture10.pdf) (Feb 20, 2014)
+- [Life on Earth](/static/classes/astr330sp14/Lecture11.pdf) (Feb 25, 2014)
+- [Life in the Inner Solar System](/static/classes/astr330sp14/Lecture12.pdf) (Feb 27, 2014)
 
 <!--
 
