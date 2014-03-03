@@ -116,7 +116,7 @@ ARTICLE_SAVE_AS = '{category}/{slug}/index.html'
 # the LCDMPOSTS_SAVE_AS variable with Pelican.
 
 DIRECT_TEMPLATES = (('index', 'articles', 'news', 'papers', 
-    'projects', 'presentations', 'teaching', 'code', 'data'))
+    'projects', 'presentations', 'teaching', 'code', 'data', 'xprojects'))
 PAGINATED_DIRECT_TEMPLATES = (('articles', 'news'))
 ARTICLES_SAVE_AS = ('blog/index.html')
 NEWS_SAVE_AS = ('news/index.html')
