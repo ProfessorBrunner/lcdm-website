@@ -7,7 +7,6 @@ Save_as: xprojects/sysview.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Mobile Application 
 Type: xproject
 Comments: True
-Construction: True
 Summary: Develop a new approach to visualizing and mining cosmological systematic effects.
 
 ## Project Synopsis
@@ -24,8 +23,14 @@ atmospheric blurring, sky brightness variations, and interstellar dust.
 To properly analyze the data, the effect of these systematics must be
 quantified and heavily affected data must be removed from the analysis.
 
+<img src="{filename}/static/images/map.png"
+alt="Galaxy shown in different filters"
+width="400px" height="auto" align="left"
+display="block" style="margin-right: 50px;" />
+
+
 In this project, the student will leverage the HEALPix sky tessellation
-scheme to pixelate the imprint of the various systematic effects on the
+scheme (see Figure 1) to pixelate the imprint of the various systematic effects on the
 sky. The pixel values will encode the value of the specific systematic
 effect, and different pixel maps will be constructed for different types
 of systematics. A method for transforming a HEALPix encoded systematic
@@ -38,7 +43,9 @@ excluded from a cosmological analysis.
 
 ## Programming Notes
 
-TBD
+Language remains TBD, but ideally we can do everything in Python,
+possibly with some Javascript for a Web Application. The Aladin tool is
+written in Java.
 
 ## Starting Conditions
 

@@ -28,7 +28,7 @@ included in your proposal.
 A [good
 guideline](https://wiki.python.org/moin/SummerOfCode/Expectations) for
 what we expect from a GSoC Student has been compiled by the
-[Python](www.python.org) software foundation.
+[Python](http://www.python.org) software foundation.
 
 ## Project List
 

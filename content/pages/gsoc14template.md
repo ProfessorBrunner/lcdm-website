@@ -16,10 +16,20 @@ Students should have contacted Professor Brunner prior to a submission.
 We encourage all applicants to have worked with Professor Brunner and
 possibly other mentors to improve their proposal prior to submission.
 
+In addition to this proposal template, please complete and submit your
+solution to the [LCDM GSoC programming](gsoccode.html)
+assignment (or a suitable code sample you have developed for your
+project of interest) directly to Professor Brunner prior to the closing
+of the GSoC student application (i.e., prior to March 20, 2014).
+
 ## GSoC Student Proposal Template
 
 A successful application will contain the following information, along
-with meeting all Google Summer of Code 2014 requirements.
+with meeting all Google Summer of Code 2014 requirements. Note you will
+submit this directly to Google via the [GSoC main
+page](http://www.google-melange.com/gsoc/homepage/google/gsoc2014). You
+can not register until Monday, March 10, 2014. Do not try to join the
+LCDM organization.
 
 ### Personal Information
 
@@ -52,9 +62,10 @@ complete this project on time.
 
 This section will present your qualifications for working on your
 proposed project. Remember, others are likely proposing for the same
-project, so why should we choose you over them. Everyone will be
-telling us they will __work hard__, so what makes you the
-best?
+project, so why should we choose you over them. Everyone will be telling
+us they will __work hard__, so what makes you the best? Why can you
+complete this project? What skills do you have that are relevant (be
+sure to provide mechanisms for us to evaluate these skills)?
 
 - **Summary of technical skills**: Include programming languages, relevant
 educational or work experiences, experience with source code

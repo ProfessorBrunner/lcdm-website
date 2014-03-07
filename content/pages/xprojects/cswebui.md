@@ -5,7 +5,7 @@ Modified:
 Authors: Robert J. Brunner
 Save_as: xprojects/cswebapp.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Web Application 
-Type: xproject
+Type: xproject-hot
 Comments: True
 Summary: We want to develop a new web application to facilitate more advanced crowdsourcing classification projects.
 
@@ -31,8 +31,15 @@ in the future requires a fundamental change in how the data are both
 presented and the classifications are gathered. As a result, in this
 project, we propose to develop an entirely new user interface to enable
 a human user to easily view, identify, and tag _features_ within an
-image. The user will be able to select pre-assigned labels, as well as
-enter free-form text to describe unusual or interesting classes.
+image (see, e.g., Figure 1). The user will be able to select
+pre-assigned labels, as well as enter free-form text to describe unusual
+or interesting classes.
+
+<img src="{filename}/static/images/sdss-bad.jpg"
+alt="Bad Image from SDSS"
+width="auto" height="auto" align="center"
+display="block" />
+
 
 The web application will communicate with a back-end database to obtain
 the target image and to store the user classifications and other associated metadata.
@@ -68,7 +75,14 @@ The lead mentor for this project is Xianming Liu, with assistance from Professor
 
 ## References
 
+- The [Sloan Digital Sky Survey](http://cas.sdss.org) database
+
+- The [Sloan Digital Sky Survey](http://www.sdss3.org)
+
+- The [Dark Energy Survey](http://www.darkenergysurvey.org)
+
 - [Galaxy Zoo](http://www.galaxyzoo.org) project 
+
 - [Dark Energy Survey](http://eyeball.erinsheldon.net/index.html) exposure checker, with
 [source code](https://github.com/pmelchior/des-exp-checker) repository.
 

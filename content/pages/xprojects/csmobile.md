@@ -31,6 +31,11 @@ technologies.
 
 ## Programming Notes
 
+One can image that a mobile application could make use of simple
+gestures to speed up the analysis. For example swipe left for star,
+swipe right for galaxy. More complex ontologies would require additional
+interface constructs.
+
 - The initial target platform will be the iOS platform
 
 - Time permitting, the Android platform will also be targeted.
@@ -61,7 +66,14 @@ The lead mentor for this project is Xianming Liu, with assistance from Professor
 
 ## References
 
+- The [Sloan Digital Sky Survey](http://cas.sdss.org) database
+
+- The [Sloan Digital Sky Survey](http://www.sdss3.org)
+
+- The [Dark Energy Survey](http://www.darkenergysurvey.org)
+
 - [Galaxy Zoo](http://www.galaxyzoo.org) project 
+
 - [Dark Energy Survey](http://eyeball.erinsheldon.net/index.html) exposure checker, with
 [source code](https://github.com/pmelchior/des-exp-checker) repository.
 

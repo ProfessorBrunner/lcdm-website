@@ -80,6 +80,8 @@ Lectures are published after the relevant class.
 - [Exoplanets](/static/classes/astr330sp14/Lecture10.pdf) (Feb 20, 2014)
 - [Life on Earth](/static/classes/astr330sp14/Lecture11.pdf) (Feb 25, 2014)
 - [Life in the Inner Solar System](/static/classes/astr330sp14/Lecture12.pdf) (Feb 27, 2014)
+- [Life in the Gas Giants](/static/classes/astr330sp14/Lecture13.pdf) (Mar 4, 2014)
+- [Life in the Outer Planets](/static/classes/astr330sp14/Lecture14.pdf) (Mar 6, 2014)
 
 <!--
 

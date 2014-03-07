@@ -5,8 +5,9 @@ Modified: 2014-03-03
 Authors: Robert J. Brunner
 Save_as: xprojects/ipbpz.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Mobile Application 
-Type: xproject
+Type: xproject-hot
 Comments: True
+Latex: True
 Summary: Estimate photometric redshifts for sources directly from astronomical images.
 
 ## Project Synopsis
@@ -62,7 +63,7 @@ little or no variation for the distance among the pixels.
 
 - Extract pixel information from each image and put it on a structured
 format. For example, for a data set containing five filters (or bands),
-each N x M image will have a five-element vector corresponding to each
+each $N \times M$ image will have a five-element vector corresponding to each
 pixel.
 
 - Compute distances and aggregate distance information for each pixel
@@ -83,7 +84,7 @@ provided as needed.
 
 - Different machine learning algorithms to compute photometric redshifts
 will be made available. This will primarily (perhaps exclusively) be
-done by using the [Machine Language for Photo-Z]() estimation code.
+done by using the Machine Learning for Photo-Z estimation code.
 
 - To start, the project requires no additional computational resources.
 As the project develops, and larger data sets are processed, additional
@@ -100,7 +101,7 @@ The lead mentor for this project is Matias Carrasco-Kind, with assistance from P
 ## References
 
 - The [Sloan Digital Sky Survey](http://www.sdss3.org)
-- [Machine Learning for Photometric Redshifts](/static/code/MLZ/MLZ-1.0.tar.gz)
+- [Machine Learning for Photometric Redshifts](/code/mlz.html)
 - [Trees for Photo-z](/papers/TPZ.html)
 - [Self Organizing Maps for Photo-Z](/papers/SOMz.html)
 - [ds9](http://ds9.si.edu/site/Home.html)  image viewer

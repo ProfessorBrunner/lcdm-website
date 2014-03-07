@@ -20,11 +20,34 @@ visualization.
 
 ## Project Description
 
-Model lensing galaxy and remove.
-Test if residuals are at right distance from lens (Einstein Radius).
-Machine learn patterns, or Bayesian model comparison.
+This project is conceptually simple. First, we wish to model the smooth
+light profile of the lensing galaxy (see Figure 1). Generally this galaxy will be an
+Elliptical galaxy, which can be fit by a 2D sersic model. Given this
+model light distribution, we will subtract off the light to look at the
+residuals. Any potential resiudals could imply interesting astrophysics,
+such as a nuclear dust lanes, a bar, or evidence of interactions;
+inaccuracis in the model used to fit the light, possibly tied to the
+interesting astrophysics; a possibly systematic effect that was missed
+in the image reduction process; or possibly a gravitational lens.
 
-Can apply to SDSS data at start, move to DES and maybe CFHTLS and KIDS data. PanSTARRs?
+![g-band image of SDSS gravitational lens]({filename}/static/images/l1g.png)
+![r-band image of SDSS gravitational lens]({filename}/static/images/l1r.png)
+![i-band image of SDSS gravitational lens]({filename}/static/images/l1i.png)
+![Color composite image of SDSS gravitational lens]({filename}/static/images/l1c.png)
+
+To test the lensing hypothesis, we can measure the angular distance
+between the lensing galaxy and the residual to see if the residuals are
+located close to the predicted Einstein radius. At this point we can
+visually inspect candidates, or perhaps we can add in a futher
+restriction by imposing a machine learning step to reduce the number of
+possible candidates (note: given the paucity of known lenses, it is
+likely easier to train an algorithm on **not** lenses). We also might
+impose a Bayesian learning process to optimize the search for known
+types of lenses, or use simulations to boost the training sample of known lenses.
+
+Initially we will apply this to the SDSS data to recover the known
+lenses, but this can be extended to data form the  Dark Energy Survey
+(DES), the CFHTLS, the KIDS data, as well as the Pan-STARRs data.
 
 ## Programming Notes
 
@@ -33,9 +56,10 @@ Can apply to SDSS data at start, move to DES and maybe CFHTLS and KIDS data. Pan
 
 - Model Residual testing will be done in Python.
 
-- Machine Learning of residuals will be TBD.
+- Machine Learning of residuals will probably use Python.
 
-- The implementation will need to scale to PBs of image data.
+- Eventually, we will want to scale the implementation will need to PBs
+of image data.
 
 ## Starting Conditions
 
@@ -54,8 +78,36 @@ The lead mentor for this project is Edward Kim, with assistance from Professor B
 
 ## References
 
-- Strong Lens Review
-- LensTractor?
-- Other lens modeling stuff?
-- ds9
-- 
+- The [Sloan Digital Sky Survey](http://cas.sdss.org) database
+
+- The [Sloan Digital Sky Survey](http://www.sdss3.org)
+
+- The [Dark Energy Survey](http://www.darkenergysurvey.org)
+
+- The [CFHTLS](http://www.cfht.hawaii.edu/Science/CFHTLS/) data
+
+- The [KIDS](http://kids.strw.leidenuniv.nl) project
+
+- [Pan-STARRs](http://pan-starrs.ifa.hawaii.edu/public/) project
+
+- Dr Phil Marshall [demonstrates](http://www.youtube.com/watch?v=PviYbX7cUUg) Gravitational Lensing
+
+- Introductory [review article]
+(http://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924) on strong gravitation lensing
+
+- The [ds9](http://ds9.si.edu/site/Home.html) FITs image viewer
+
+- The [fv](http://heasarc.gsfc.nasa.gov/ftools/fv/) FITs image viewer
+
+- The [CASTLES Survey](http://www.cfa.harvard.edu/castles/) Lens database
+
+- The [Cassowary Lens](http://www.ast.cam.ac.uk/ioa/research/cassowary/) gravitational lens search
+
+- [SpaceWarps](http://spacewarps.org) crowdsourcing lens search
+
+- The [LensTractor](https://github.com/davidwhogg/LensTractor) lens
+modeling system. A similar idea to the one proposed here.
+
+- [PCA-based](http://arxiv.org/abs/1403.1063) lens finding technique
+
+- [RingFinder](http://arxiv.org/abs/1403.1041) lens finding technique

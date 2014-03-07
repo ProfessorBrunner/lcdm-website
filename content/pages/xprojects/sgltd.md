@@ -5,7 +5,7 @@ Modified: 2014-03-03
 Authors: Robert J. Brunner
 Save_as: xprojects/sgltd.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Mobile Application 
-Type: xproject
+Type: xproject-hot
 Comments: True
 Summary: Develop and apply new strong gravitational lensing time delays measurements.
 
@@ -22,9 +22,14 @@ an image due to the presence of a foreground lensing galaxy. Since the
 light that forms the different quasar images takes different paths
 through the Universe to reach us, the light will also take a different
 amount of time to reach us. Since quasars are inherently variable in
-their light output, and in fact they can be modeled as stochastic
-processes, the quasar variability can be used to measure the time delay
-between two or more quasar images.
+their light output (see Figure 1 for a simulated example), and in fact
+they can be modeled as stochastic processes, the quasar variability can
+be used to measure the time delay between two or more quasar images.
+
+<img src="{filename}/static/images/LightCurves.png"
+alt="Galaxy shown in different filters"
+width="400px" height="auto" align="right"
+display="block" style="margin: 40px;" />
 
 A number of techniques hav been developed and applied to this problem,
 with the best techniques still having accuracies of around a few days
@@ -72,8 +77,14 @@ assistance from Professor Brunner.
 ## References
 
 - [Distance Correlation](http://en.wikipedia.org/wiki/Distance_correlation)
+
 - [CosmoGrail](http://cosmograil.epfl.ch) project 
+
 - Castles [multiple object lensing survey](http://www.cfa.harvard.edu/castles/)
+
 - LSST [Time Delay Challenge](http://timedelaychallenge.org)
+
 - [Stochastic Fluctuation](http://arxiv.org/abs/0903.5315) model for quasar variability.
+
+- [Github](https://github.com/ProfessorBrunner/sgl-timedelay) Repository
 

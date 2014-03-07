@@ -7,7 +7,7 @@ Save_as: xprojects/probcosmo.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Mobile Application 
 Type: xproject
 Comments: True
-Construction: True
+Latex: True
 Summary: Develop Probabilistic versions of existing cosmology codes
 
 ## Project Synopsis
@@ -28,13 +28,17 @@ This project is designed to remove these limitations. By including a
 probabilistic classification for whether a source is a galaxy or not and
 a probability density function for the distance a source is located from
 Earth, we can use significantly more data to make more precise
-cosmological measurements with exact same input data.
+cosmological measurements with the exact same input data.
 
 ## Programming Notes
 
-TBD
+The correlation and angular power spectrum codes are currently written
+in C and make use of MPI and openMP. As a result, the current plan is to
+continue with C as the implementation language. Any data
+pre/post-processing will likely be completed by using Python.
 
 ## Starting Conditions
+
 A fast, dual-tree implementation of the TPACF
 algorithm has been developed and published by our group. This code is
 written in C and forms the basis for the new code implementation. An
@@ -43,6 +47,7 @@ estimator, for which we also have an existing implementation written in
 C. Both of these codes are run on supercomputers to make their computations.
 
 ## Expected Outcome
+
 The student will first modify the existing TPACF
 code to read probabilities for each source (along with their positions
 on the sky) from an input file. Second, the student will modify the
@@ -53,16 +58,21 @@ test the accuracy and performance of the new code on existing data. An
 optional second algorithm is the Angular Power Spectrum, for which a similar
 modification can be made.
 
+We expect regression testing to be developed to confirm that the codes operate as expected.
+
 ## Personnel
 
 The lead mentor for this project is Professor Brunner.
 
 ## References
 
-- Original [Two-point
-correlation](http://www.linuxclustersinstitute.org/conferences/archive/
-2008/PDF/Dolence_98279.pdf) paper
+- Original [Two-point correlation](http://www.linuxclustersinstitute.org/conferences/archive/2008/PDF/Dolence_98279.pdf) paper
 - [Demonstration](http://arxiv.org/abs/1303.2432) of our two-point code.
-- TPACF](/code/tpacf.html) source code.
+
 - Original [Angular Power Spectrum](http://arxiv.org/abs/1112.5723) paper.
-- [APS](http://lcdm.astro.illinois.edu/code/aps.html) source code.
+
+- [Two-point correlation code](/code/tpacf.html) source code and [GitHub](https://github.com/ProfessorBrunner/tpacf) repository.
+
+- [Probabilistic TPACF](https://github.com/ProfessorBrunner/prob-tpacf) Github repository
+
+- [Angular Power Spectrum](/code/aps.html) source code.

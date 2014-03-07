@@ -1,7 +1,7 @@
 Title: SOMZ: Maps for Photo-Z
 Slug: somz-paper
 Date: 2013-12-15
-Modified: 2014-01-08
+Modified: 2014-03-03
 Authors: Matias Carrasco-Kind, Robert J. Brunner
 Save_as: papers/somz.html
 Tags: Data Mining, Machine Learning, Photometric Redshift, Python, Self Organizing Maps, Random Atlas, Matias Carrasco Kind, Robert J. Brunner
@@ -11,18 +11,18 @@ Construction: True
 Latex: True
 sDate: 2013-10-22
 aDate: 2013-12-18
-pDate: 	
-pURL: 
+pDate: 2014-03-11
+pURL: http://mnras.oxfordjournals.org/content/438/4/3409
 Summary: We have developed a new random atlas estimation technique for photometric redshift PDF estimation.
 
 ### SOMz: photometric redshift PDFs with self organizing maps and random atlas
 
 **Authors**: Matias Carrasco Kind and Robert J. Brunner  
-**Published**:   TBD  
-**DOI**: N/A
+**Published**:   March 11,2014  
+**DOI**: 10.1093/mnras/stt2456
 
 ### Access:
-[MNRAS Journal Article]()  
+[MNRAS Journal Article](http://mnras.oxfordjournals.org/content/438/4/3409.full)  
 [NASA ADS Record](http://adsabs.harvard.edu/cgi-bin/bib_query?arXiv:1312.5753)  
 [arXiv Posting](http://arxiv.org/abs/1312.5753)  
 [LCDM Repository](/static/papers/somz.pdf)
