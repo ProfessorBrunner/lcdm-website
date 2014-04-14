@@ -1,6 +1,6 @@
 Title: Novel Bayesian Combination of Photo-Z PDFs
 Slug: comboz-paper
-Date: 2013-03-03
+Date: 2014-03-03
 Modified: 
 Authors: Matias Carrasco-Kind, Robert J. Brunner
 Save_as: papers/comboz.html
@@ -24,7 +24,7 @@ Summary: We have developed a new method for combining photometric redshift PDFs.
 ### Access:
 [MNRAS Journal Article]()  
 [NASA ADS Record]()  
-[arXiv Posting]()  
+[arXiv Posting](http://arxiv.org/pdf/1403.0044.pdf)  
 [LCDM Repository](/static/papers/comboz.pdf)
 
 ### Abstract:

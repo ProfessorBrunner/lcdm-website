@@ -7,6 +7,7 @@ Save_as: xprojects/sgldb.html
 Tags: Data Mining, Machine Learning, Classification, Databases, Strong Gravitational Lens 
 Type: xproject
 Comments: True
+Latex: True
 Summary: Develop new technique to optimally identify strong gravitational lenses in astronomical databases
 
 ## Project Synopsis
@@ -23,9 +24,15 @@ odd appearance, finding strong lens systems remains very difficult for
 machines, and the largest sample of lenses generally involved
 crowdsourcing.
 
+Here we present the $u$, $g$, $r$, $i$, and $z$ band images of an SDSS
+gravitational lens, along with a color image made by combining the $g$,
+$r$, and $i$ images.
+
+![u-band image of SDSS gravitational lens]({filename}/static/images/l1u.png)
 ![g-band image of SDSS gravitational lens]({filename}/static/images/l1g.png)
 ![r-band image of SDSS gravitational lens]({filename}/static/images/l1r.png)
 ![i-band image of SDSS gravitational lens]({filename}/static/images/l1i.png)
+![z-band image of SDSS gravitational lens]({filename}/static/images/l1z.png)
 ![Color composite image of SDSS gravitational lens]({filename}/static/images/l1c.png)
 
 In this project, we expect a student to instead develop new, custom SQL
@@ -67,8 +74,8 @@ The lead mentor for this project is Professor Brunner.
 
 - Dr Phil Marshall [demonstrates](http://www.youtube.com/watch?v=PviYbX7cUUg) Gravitational Lensing
 
-- Introductory [review article]
-(http://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924) on strong gravitation lensing
+- Introductory [review article](http://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924) 
+on strong gravitation lensing
 
 - The [CASTLES Survey](http://www.cfa.harvard.edu/castles/) Lens database
 

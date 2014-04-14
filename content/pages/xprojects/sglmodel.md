@@ -7,7 +7,7 @@ Save_as: xprojects/sglmodel.html
 Tags: Data Mining, Machine Learning, Classification, Image Classification, Crowdsourcing, Mobile Application 
 Type: xproject
 Comments: True
-Construction: True
+Latex: True
 Summary: Model lensing galaxies in astronomical images to detect strong gravitational lenses as residuals.
 
 ## Project Synopsis
@@ -30,9 +30,15 @@ inaccuracis in the model used to fit the light, possibly tied to the
 interesting astrophysics; a possibly systematic effect that was missed
 in the image reduction process; or possibly a gravitational lens.
 
+Here we present the $u$, $g$, $r$, $i$, and $z$ band images of an SDSS
+gravitational lens, along with a color image made by combining the $g$,
+$r$, and $i$ images.
+
+![u-band image of SDSS gravitational lens]({filename}/static/images/l1u.png)
 ![g-band image of SDSS gravitational lens]({filename}/static/images/l1g.png)
 ![r-band image of SDSS gravitational lens]({filename}/static/images/l1r.png)
 ![i-band image of SDSS gravitational lens]({filename}/static/images/l1i.png)
+![z-band image of SDSS gravitational lens]({filename}/static/images/l1z.png)
 ![Color composite image of SDSS gravitational lens]({filename}/static/images/l1c.png)
 
 To test the lensing hypothesis, we can measure the angular distance
@@ -92,8 +98,7 @@ The lead mentor for this project is Edward Kim, with assistance from Professor B
 
 - Dr Phil Marshall [demonstrates](http://www.youtube.com/watch?v=PviYbX7cUUg) Gravitational Lensing
 
-- Introductory [review article]
-(http://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924) on strong gravitation lensing
+- Introductory [review article](http://www.annualreviews.org/doi/full/10.1146/annurev-astro-081309-130924) on strong gravitation lensing
 
 - The [ds9](http://ds9.si.edu/site/Home.html) FITs image viewer
 
