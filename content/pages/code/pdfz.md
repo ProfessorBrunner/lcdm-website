@@ -1,7 +1,7 @@
 Title: Sparse Representation of Photometric Redshift PDFs
 Slug: pdfz-code
-Date: 2014-04-14
-Modified: 2014-04-14
+Date: 2014-04-28
+Modified: 2014-04-28
 Authors: Robert J. Brunner
 Save_as: code/pdfz.html
 TAGS: Sparse Basis Representation Photometric Redshifts, Code
@@ -14,16 +14,15 @@ We have implemented a software package that produces a compressed
 representation of a photometric redshift probabilistic density function
 (PDF). This code implements the techniques presented in our [Sparse
 Representation of Photometric Redshift
-PDFs]({filename}/pages/papers/pdfZstorage.md) paper.
+PDFs]({filename}/pages/papers/pdfZstorage.md) paper. This package will be soon incorporated as part as the [MLZ]({filename}/pages/code/mlz.md) package.
 
 ## Public Archive
 
-The code base will eventually be migrated to [github](https://github.com/ProfessorBrunner).
+The code base is currently in [github](https://github.com/mgckind/SparsePz) but soon it will incorporated as part as the [MLZ]({filename}/pages/code/mlz.md) repository
 
 ## Original Archive
 
-The currently published [PDF Storage](/static/code/) implementation is permanently
-archived at the LCDM site.
+The currently published PDF Storage implementation [SparePz](/static/code/pdfz/SparsePz.zip)  is permanently archived at the LCDM site.
 
 
 ## Contact:

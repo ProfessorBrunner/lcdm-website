@@ -89,19 +89,20 @@ Lectures are published after the relevant class.
 - [Transition to Life](/static/classes/astr330sp14/Lecture19.pdf) (Apr 1, 2014)
 - [Geology & Biologic Evolution](/static/classes/astr330sp14/Lecture21.pdf) (Apr 8, 2014)
 - [Evolution of Intelligence](/static/classes/astr330sp14/Lecture22.pdf) (Apr 10, 2014)
+- [Cultural Evolution](/static/classes/astr330sp14/Lecture23.pdf) (Apr 15, 2014)
+- [Cultural Evolution](/static/classes/astr330sp14/Lecture24.pdf) (Apr 17, 2014)
+- [Lifetime (Worldview &amp; Species)](/static/classes/astr330sp14/Lecture25.pdf) (Apr 22, 2014)
+- [Lifetime (Species &amp; Technology)](/static/classes/astr330sp14/Lecture26.pdf) (Apr 24, 2014)
+- [Finish Drake Equation](/static/classes/astr330sp14/Lecture27.pdf) (Apr 29, 2014)
+- [Space Travel](/static/classes/astr330sp14/Lecture28.pdf) (May 1, 2014)
+- Final Exam (May 9, 2014)
 
 <!--
 
-[Biological Evolution](/static/classes/astr330sp14/Lecture19.pdf) (Apr 1, 2014)
-- [Origin of Intelligence](/static/classes/astr330sp14/Lecture20.pdf) (Apr 3, 2014)
-- [Lifetime](/static/classes/astr330sp14/Lecture23.pdf) (Apr 15, 2014)
-- [Communication](/static/classes/astr330sp14/Lecture24.pdf) (Apr 17, 2014)
-- [Future of Civilization](/static/classes/astr330sp14/Lecture25.pdf) (Apr 22, 2014)
 - [Rockets](/static/classes/astr330sp14/Lecture26.pdf) (Apr 24, 2014)
 - [Space Travel](/static/classes/astr330sp14/Lecture27.pdf) (Apr 29, 2014)
 - [Visitation](/static/classes/astr330sp14/Lecture28.pdf) (May 1, 2014)
 - [Contact](/static/classes/astr330sp14/Lecture29.pdf) (May 6, 2014)
-- Final Exam (May 9, 2014)
 
 Note, I munged old HTML table data using this script:
 
