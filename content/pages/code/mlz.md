@@ -1,12 +1,12 @@
 Title: Machine Learning for Photometric Redshifts
 Slug: mlz-code
 Date: 2014-01-07
-Modified: 2014-01-10
+Modified: 2014-05-02
 Authors: Robert J. Brunner
 Save_as: code/mlz.html
 TAGS: Python, MPI, Photometric Redshifts, Code
 Construction: True
-Summary: We have released Version 1.0 of our Machine Learning for Photometric Redshifts software package.
+Summary: We have released Version 1.1 of our Machine Learning for Photometric Redshifts software package.
 
 ## Introduction
 
@@ -23,8 +23,8 @@ The code base will eventually be migrated to [github](https://github.com/Profess
 
 ## Original Archive
 
-The currently published [MLZ](/static/code/mlz/MLZ-1.0.tar.gz) implementation is permanently
-archived at the LCDM site, as is the [MLZ documentation](/static/code/mlz/MLZ-1.0/doc/html/index.html).
+The currently published [MLZ](/static/code/mlz/MLZ-1.1.tar.gz) implementation is permanently
+archived at the LCDM site, as is the [MLZ documentation](/static/code/mlz/MLZ-1.1/doc/html/index.html).
 
 
 ## Contact:

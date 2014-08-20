@@ -23,9 +23,9 @@ Summary: We find and study the clustering behavior of compact galaxy groups in t
 
 ### Access:
 
-[MNRAS Journal Article]()
-[NASA ADS Record]()
-[arXiv Posting]()
+[MNRAS Journal Article]()  
+[NASA ADS Record]()  
+[arXiv Posting]()  
 [LCDM Repository](/static/papers/sdssdr7-groups.pdf)
 
 ### Abstract:

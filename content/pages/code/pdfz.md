@@ -14,11 +14,11 @@ We have implemented a software package that produces a compressed
 representation of a photometric redshift probabilistic density function
 (PDF). This code implements the techniques presented in our [Sparse
 Representation of Photometric Redshift
-PDFs]({filename}/pages/papers/pdfZstorage.md) paper. This package will be soon incorporated as part as the [MLZ]({filename}/pages/code/mlz.md) package.
+PDFs]({filename}/pages/papers/pdfZstorage.md) paper. This package will be soon incorporated as part as the [MLZ](http://lcdm.astro.illinois.edu/code/mlz.html) package.
 
 ## Public Archive
 
-The code base is currently in [github](https://github.com/mgckind/SparsePz) but soon it will incorporated as part as the [MLZ]({filename}/pages/code/mlz.md) repository
+The code base is currently in [github](https://github.com/mgckind/SparsePz) but soon it will incorporated as part as the [MLZ](http://lcdm.astro.illinois.edu/code/mlz.html) repository
 
 ## Original Archive
 

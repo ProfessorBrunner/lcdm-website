@@ -69,7 +69,7 @@ class take us. Take part in the journey!
 Lectures are published after the relevant class.
 
 - [Course Introduction](/static/classes/astr330sp14/Lecture1.pdf) (January 21, 2014)
-- [Astronomy Primer](/static/classes/astr330sp14/Lecture3.pdf) (January 23, 2014)
+- [Astronomy Primer](/static/classes/astr330sp14/Lecture2.pdf) (January 23, 2014)
 - [Pseudoscience Smackdown](/static/classes/astr330sp14/Lecture3.pdf) (January 28, 2014)
 - [Cosmology](/static/classes/astr330sp14/Lecture4.pdf) (Jan 30, 2014)
 - [The Big Bang Theory](/static/classes/astr330sp14/Lecture5.pdf) (Feb 4, 2014)
@@ -87,6 +87,7 @@ Lectures are published after the relevant class.
 - [Genetics](/static/classes/astr330sp14/Lecture17.pdf) (Mar 18, 2014)
 - [Chemical Evolution of Life](/static/classes/astr330sp14/Lecture18.pdf) (Mar 20, 2014)
 - [Transition to Life](/static/classes/astr330sp14/Lecture19.pdf) (Apr 1, 2014)
+- [Evolution of Life](/static/classes/astr330sp14/Lecture20.pdf) (Apr 3, 2014)
 - [Geology & Biologic Evolution](/static/classes/astr330sp14/Lecture21.pdf) (Apr 8, 2014)
 - [Evolution of Intelligence](/static/classes/astr330sp14/Lecture22.pdf) (Apr 10, 2014)
 - [Cultural Evolution](/static/classes/astr330sp14/Lecture23.pdf) (Apr 15, 2014)
@@ -95,6 +96,7 @@ Lectures are published after the relevant class.
 - [Lifetime (Species &amp; Technology)](/static/classes/astr330sp14/Lecture26.pdf) (Apr 24, 2014)
 - [Finish Drake Equation](/static/classes/astr330sp14/Lecture27.pdf) (Apr 29, 2014)
 - [Space Travel](/static/classes/astr330sp14/Lecture28.pdf) (May 1, 2014)
+- [Aliens](/static/classes/astr330sp14/Lecture29.pdf) (May 6, 2014)
 - Final Exam (May 9, 2014)
 
 <!--
